@@ -29,8 +29,7 @@ Also starter code was provided by the UT Fullstack Web Development Bootcamp.
 
 ## License
 
-
-
+MIT
 
 ## Features
 
